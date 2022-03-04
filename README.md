@@ -26,6 +26,6 @@ Execute o script: ./docker_creator.sh
 ```
 ## Imagens do projeto
 
-![imagem1.png](https://raw.githubusercontent.com/antonio-pinheiro/docker_creator/.github/images/imagem1.png]
-![imagem2.png](https://raw.githubusercontent.com/antonio-pinheiro/docker_creator/.github/images/imagem2.png]
-![imagem3.png](https://raw.githubusercontent.com/antonio-pinheiro/docker_creator/.github/images/imagem3.png]
+![imagem1.png](https://raw.githubusercontent.com/antonio-pinheiro/docker_creator/main/.github/images/imagem1.png]
+![imagem2.png](https://raw.githubusercontent.com/antonio-pinheiro/docker_creator/main/.github/images/imagem2.png]
+![imagem3.png](https://raw.githubusercontent.com/antonio-pinheiro/docker_creator/main/.github/images/imagem3.png]
